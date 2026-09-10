@@ -55,3 +55,7 @@ int main() {
 | LinkedIn | [Ссылка](https://example.com) | 3 часа |
 | WhatsApp | [Ссылка](https://example.com) | 30 минут |
 | Telegram | [Ссылка](https://example.com) | 5 минут |
+
+## jusan-git
+
+Скрипт `username.sh` выводит моё имя и фамилию.
